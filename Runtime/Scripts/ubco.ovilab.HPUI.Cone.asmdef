@@ -1,0 +1,22 @@
+{
+    "name": "ubco.ovilab.HPUI.Cone",
+    "rootNamespace": "ubco.ovilab.HPUI.Cone",
+    "references": [
+        "Unity.XR.Hands",
+        "Unity.XR.CoreUtils",
+        "Unity.XR.Interaction.Toolkit",
+        "Unity.TextMeshPro",
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "ubco.ovilab.HPUI.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

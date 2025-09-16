@@ -1,8 +1,8 @@
 using UnityEngine;
 using UnityEditor;
-using ubco.ovilab.HPUI.Interaction;
+using ubco.ovilab.HPUI.Core.Editor;
 
-namespace ubco.ovilab.HPUI.Editor
+namespace ubco.ovilab.HPUI.Cone.Editor
 {
     [CanEditMultipleObjects]
     [CustomPropertyDrawer(typeof(HPUIConeRayCastDetectionLogic.ClosestJointAndSideEstimator), true)]

@@ -1,10 +1,10 @@
 using System.Collections.Generic;
 using System.Linq;
-using ubco.ovilab.HPUI.Interaction;
+using ubco.ovilab.HPUI.Core.Interaction;
 using UnityEditor;
 using UnityEngine;
 
-namespace ubco.ovilab.HPUI.Editor
+namespace ubco.ovilab.HPUI.Cone.Editor
 {
     [CanEditMultipleObjects]
     [CustomEditor(typeof(HPUIInteractorConeRayAngles), true)]

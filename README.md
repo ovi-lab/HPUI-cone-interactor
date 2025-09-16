@@ -1,44 +1,17 @@
-# HPUI-Core
-This provides package for using Hand Proximate User Interfaces (HPUI).
+# HPUI-cone-interactor
+This provides the cone interactor for HPUI. This depends on [HPUI-Core](https://github.com/ovi-lab/HPUI-Core). HPUI-Core needs to be added as a dependancy for a project before adding this.
 
 For the documentation visit https://ovi-lab.github.io/HPUI-Core
 
-<div class="image">
-    <img src="https://raw.githubusercontent.com/ovi-lab/HPUI-Core/master/Documentation~/figures/out.gif" alt="Screen shot of demo applications.">
-    <div class="caption">Demo application that with Oculus Quest 2.</div>
-</div>
-
-Related publications:
-- [HPUI: Hand Proximate User Interfaces for One-Handed Interactions on Head Mounted Displays](https://ieeexplore.ieee.org/document/9523895)
-- [Evaluating design guidelines for hand proximate user interfaces](https://dl.acm.org/doi/10.1145/3544548.3580915)
-
 ## To cite this work
-```
-@article{faleel21_hpui,
-  author={Faleel, Shariff AM and Gammon, Michael and Fan, Kevin and Huang, Da-Yuan and Li, Wei and Irani, Pourang},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
-  title={HPUI: Hand Proximate User Interfaces for One-Handed Interactions on Head Mounted Displays},
-  year={2021},
-  volume={27},
-  number={11},
-  pages={4215-4225},
-  doi={10.1109/TVCG.2021.3106493}
-}
+Builds on [What's the Thumb Doing? Improving Precision for Thumb-to-Finger Interactions on Hand Proximate User Interfaces](https://shariff-faleel.com/post/2025-05-26-pub-whats-thumb).
 
-@inproceedings{10.1145/3563657.3596117,
-  author = {Perella-Holfeld, Francisco and Faleel, Shariff AM and Irani, Pourang},
-  title = {Evaluating Design Guidelines for Hand Proximate User Interfaces},
-  year = {2023},
-  isbn = {9781450398930},
-  publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3563657.3596117},
-  doi = {10.1145/3563657.3596117},
-  booktitle = {Proceedings of the 2023 ACM Designing Interactive Systems Conference},
-  pages = {1159–1173},
-  numpages = {15},
-  keywords = {Hand Proximate User Interface, Design Guidelines, Head Mounted Displays},
-  location = {Pittsburgh, PA, USA},
-  series = {DIS '23}
+```
+@inproceedings{shariff25_what_the_thum,
+  title={What's the Thumb Doing? Improving Precision for Thumb-to-Finger Interactions on Hand Proximate User Interfaces},
+  author={Shariff AM Faleel and Rishav Banerjee and Omang Baheti and Khalad Hasan and Pourang Irani"},
+  year=2025,
+  booktitle= {Proceedings of the Graphics Interface Conference 2025 (GI ’25)}
 }
 ```
+
