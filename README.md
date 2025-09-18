@@ -1,7 +1,7 @@
-# HPUI-cone-interactor
-This provides the cone interactor for HPUI. This depends on [HPUI-Core](https://github.com/ovi-lab/HPUI-Core). HPUI-Core needs to be added as a dependancy for a project before adding this.
+# HPUI-cone-interactor  {#HPUI-cone-interactor}
+This package ([HPUI-Cone-Interactor](https://github.com/ovi-lab/HPUI-Cone-Interactor)) provides the cone interactor for HPUI. This depends on [HPUI-Core](https://github.com/ovi-lab/HPUI-Core). HPUI-Core needs to be added as a dependancy for a project before adding this.
 
-For the documentation visit https://ovi-lab.github.io/HPUI-Core
+For the documentation visit https://ovi-lab.github.io/HPUI-Docs
 
 ## To cite this work
 Builds on [What's the Thumb Doing? Improving Precision for Thumb-to-Finger Interactions on Hand Proximate User Interfaces](https://shariff-faleel.com/post/2025-05-26-pub-whats-thumb).
